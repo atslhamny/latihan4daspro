@@ -1,7 +1,5 @@
 LATIHAN KE 4 DASAR PEMROGRAMAN
--
--
--
+
 RESUME MATERI PSEUDOCODE DAN FLOWCHART
 
 Pseudocode adalah cara untuk merencanakan dan mendokumentasikan algoritma komputer dengan notasi yang mirip dengan kode pemrograman, tetapi tidak terikat oleh aturan baku dalam bahasa pemrograman tertentu. Ini digunakan untuk menjelaskan langkah-langkah penyelesaian masalah secara jelas dan mudah dimengerti oleh manusia, bukan oleh mesin.
