@@ -3,7 +3,7 @@ LATIHAN KE 4 DASAR PEMROGRAMAN
 
 Pseudocode 
 -
-adalah cara untuk merencanakan dan mendokumentasikan algoritma komputer dengan notasi yang mirip dengan kode pemrograman, tetapi tidak terikat oleh aturan baku dalam bahasa pemrograman tertentu. Ini digunakan untuk menjelaskan langkah-langkah penyelesaian masalah secara jelas dan mudah dimengerti oleh manusia, bukan oleh mesin.
+Cara untuk merencanakan dan mendokumentasikan algoritma komputer dengan notasi yang mirip dengan kode pemrograman, tetapi tidak terikat oleh aturan baku dalam bahasa pemrograman tertentu. Ini digunakan untuk menjelaskan langkah-langkah penyelesaian masalah secara jelas dan mudah dimengerti oleh manusia, bukan oleh mesin.
 
 Pseudocode umumnya ditulis dalam bahasa Inggris atau bahasa lain yang mudah dimengerti, dan menggunakan sintaks yang dikelompokkan dalam 6 operasi dasar:
 
@@ -23,8 +23,8 @@ Pseudocode membantu dalam perencanaan dan dokumentasi algoritma dengan cara yang
 
 
 Flowchart
-- 
-adalah representasi visual dari suatu proses atau algoritma dengan menggunakan simbol-simbol khusus untuk menjelaskan urutan langkah-langkah dan hubungan antar langkah dalam sebuah program atau sistem. Ini adalah cara untuk menggambarkan dan menjelaskan algoritma dengan lebih jelas. Terdapat dua jenis utama flowchart:
+-
+Representasi visual dari suatu proses atau algoritma dengan menggunakan simbol-simbol khusus untuk menjelaskan urutan langkah-langkah dan hubungan antar langkah dalam sebuah program atau sistem. Ini adalah cara untuk menggambarkan dan menjelaskan algoritma dengan lebih jelas. Terdapat dua jenis utama flowchart:
 
 System Flowchart (Flowchart Sistem): Jenis ini menggambarkan urutan proses dalam sebuah sistem atau program. Ini mencakup langkah-langkah yang dilakukan oleh sistem, alat media input yang digunakan (seperti keyboard atau sensor), alat media output (seperti layar atau printer), dan jenis media penyimpanan data yang digunakan selama proses pengolahan data. Flowchart jenis ini membantu dalam memahami operasi keseluruhan dari suatu sistem.
 
