@@ -1,0 +1,80 @@
+PSEUDOCODE
+
+Pseudocode Luas dan Keliling Persegi Panjang 
+Algoritma : hitung_luas_keliling_persegi_panjang
+
+Deklarasi :
+panjang, lebar, luas, keliling: int
+
+Deskripsi :
+read panjang
+read lebar
+luas = panjang * lebar
+keliling = 2 * (panjang + lebar)
+print keliling
+print luas
+------------------------------------------------
+Pseudocode Luas dan Keliling Lingkaran 
+Algoritma : hitung_luas_keliling_Lingkaran
+
+Deklarasi :
+jari jari, keliling , luas: int
+phi :double
+
+Deskripsi :
+read phi
+read jari jari
+
+luas = phi * jari jari * jari jari
+keliling = 2 * phi * jari jari
+print keliling
+print luas
+------------------------------------------------
+Pseudocode Luas dan Keliling Segitiga Sama Kaki 
+Algoritma : hitung_luas_keliling_Segitiga_Sama_Kaki
+
+Deklarasi :
+alas, tinggi, sisi miring, keliling , luas: int
+
+Deskripsi :
+read alas
+read tinggi
+read sisi miring
+
+luas = alas * tinggi / 2
+keliling = 2 * sisi miring + alas
+print keliling
+print luas
+------------------------------------------------
+Pseudocode Luas dan Keliling Segitiga Sama sisi 
+Algoritma : hitung_luas_keliling_Segitiga_Sama_Sisi
+
+Deklarasi :
+alas, tinggi, sisi, keliling , luas: int
+
+Deskripsi :
+read alas
+read tinggi
+read sisi 
+
+luas = alas * tinggi / 2
+keliling = 3 * sisi
+print keliling
+print luas
+------------------------------------------------
+Pseudocode Luas dan Keliling Segitiga Sama Siku Siku 
+Algoritma : hitung_luas_keliling_Segitiga_Sama_Siku_Siku
+
+Deklarasi :
+alas, tinggi, sisi miring, keliling , luas: int
+
+Deskripsi :
+read alas
+read tinggi
+read sisi miring
+
+luas = alas * tinggi / 2
+keliling = sisi miring + alas + tinggi
+print keliling
+print luas
+
