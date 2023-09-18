@@ -38,7 +38,7 @@ public class luasdankeliling {
 
         int alas;
         int tinggi;
-        int sMiring;
+        int sisiKananKiri;
         int luas;
         int keliling;
 
@@ -50,10 +50,12 @@ public class luasdankeliling {
         luas = alas*tinggi/2;
         System.out.println("HASIL LUAS " + luas);
 
-        System.out.println("Masukkan Sisi Miring");
-        sMiring = input.nextInt();
+        System.out.println("Masukkan Sisi Kanan");
+        sisiKananKiri = input.nextInt();
+        System.out.println("Masukkan Sisi Kiri");
+        sisiKananKiri = input.nextInt();
 
-        keliling = 2*sMiring + alas;
+        keliling = sisiKananKiri + sisiKananKiri + alas;
         System.out.println("HASIL DARI KELILING" + keliling);
     }
 
@@ -77,7 +79,7 @@ public class luasdankeliling {
         System.out.println("Masukkan Sisi Miring");
         sisi = input.nextInt();
 
-        keliling = 2*sisi;
+        keliling = 3*sisi;
         System.out.println("HASIL DARI KELILING" + keliling);
     }
 
@@ -86,7 +88,7 @@ public class luasdankeliling {
 
         int alas;
         int tinggi;
-        int sMiring;
+        int sisiKananKiri;
         int luas;
         int keliling;
 
@@ -98,10 +100,13 @@ public class luasdankeliling {
         luas = alas*tinggi/2;
         System.out.println("HASIL LUAS " + luas);
 
-        System.out.println("Masukkan Sisi Miring");
-        sMiring = input.nextInt();
+        System.out.println("Masukkan Sisi Kanan");
+        sisiKananKiri = input.nextInt();
+        System.out.println("Masukkan Sisi Kiri");
+        sisiKananKiri = input.nextInt();
 
-        keliling = alas + sMiring + tinggi;
+
+        keliling = alas + sisiKananKiri + sisiKananKiri;
         System.out.println("HASIL DARI KELILING" + keliling);
     }
 
